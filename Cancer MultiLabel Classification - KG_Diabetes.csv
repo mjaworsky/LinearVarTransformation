@@ -1,0 +1,19 @@
+Keywords,Label,Label Text,Algorithm,Precision,Recall,F1
+Diabetes,0,No Cancer,MultinomialNB,0.98,0.58,0.73
+Diabetes,0,No Cancer,Random Forest,0.97,0.76,0.85
+Diabetes,0,No Cancer,AdaBoost,0.97,1,0.98
+Diabetes,5,Head and neck,RusBoost,0,0.15,0
+Diabetes,7,Pharyngeal,MultinomialNB,0,0.58,0
+Diabetes,10,Colon,RusBoost,0,0.36,0
+Diabetes,15,Stomach,MultinomialNB,0,0.5,0
+Diabetes,19,Prostate,Random Forest,0,0.05,0.01
+Diabetes,21,Melonoma,Random Forest,0.01,0.04,0.01
+Diabetes,22,Other skin,Random Forest,0.01,0.23,0.03
+Diabetes,25,Bladder,RusBoost,0,0.06,0
+Diabetes,30,Other,RusBoost,0,0.17,0
+Diabetes,100,No Cancers,MultinomialNB,0.98,0.86,0.92
+Diabetes,100,No Cancers,Random Forest,0.98,0.89,0.93
+Diabetes,100,No Cancers,AdaBoost,0.98,1,0.99
+Diabetes,101,One Cancer,Random Forest,0.03,0.18,0.05
+Diabetes,102,Two Cancers,MultinomialNB,0.01,0.09,0.01
+Diabetes,109,Refused,RusBoost,0,0.53,0

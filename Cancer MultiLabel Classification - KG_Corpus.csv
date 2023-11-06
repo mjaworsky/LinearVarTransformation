@@ -1,0 +1,36 @@
+Keywords,Label,Label Text,Algorithm,Precision,Recall,F1
+Corpus,0,No Cancer,MultinomialNB,0.99,0.01,0.01
+Corpus,0,No Cancer,Random Forest,0.97,0.87,0.82
+Corpus,0,No Cancer,RusBoost,0.99,0.1,0.19
+Corpus,0,No Cancer,AdaBoost,0.97,0.59,0.74
+Corpus,1,Breast,Random Forest,0.01,0.03,0.01
+Corpus,1,Breast,RusBoost,0.01,0.01,0.01
+Corpus,1,Breast,AdaBoost,0.01,0.37,0.02
+Corpus,5,Head and neck,RusBoost,0,0.31,0
+Corpus,10,Colon,RusBoost,0,0.06,0
+Corpus,12,Liver,MultinomialNB,0,0.07,0
+Corpus,14,Rectal,AdaBoost,0,0.21,0
+Corpus,16,Hodgkin's Lymphoma,RusBoost,0,0.11,0
+Corpus,17,Leukemia,RusBoost,0,0.02,0
+Corpus,18,Non-Hodgkin's Lymphoma,RusBoost,0,0.15,0
+Corpus,19,Prostate,RusBoost,0.01,0.1,0.01
+Corpus,19,Prostate,Random Forest,0.01,0.07,0.02
+Corpus,20,Testicular,RusBoost,0,0.05,0
+Corpus,21,Melonoma,Random Forest,0.01,0.03,0.02
+Corpus,22,Other skin,Random Forest,0.01,0.06,0.02
+Corpus,25,Bladder,RusBoost,0,0.08,0
+Corpus,28,Brain,MultinomialNB,0,0.62,0
+Corpus,28,Brain,RusBoost,0,0.25,0
+Corpus,28,Brain,AdaBoost,0,0.25,0
+Corpus,30,Other,Random Forest,0,0.01,0
+Corpus,30,Other,RusBoost,0,0.02,0.01
+Corpus,99,Refused,AdaBoost,0,0.15,0
+Corpus,100,No Cancers,MultinomialNB,0.97,0.59,0.73
+Corpus,100,No Cancers,Random Forest,0.98,0.92,0.95
+Corpus,100,No Cancers,AdaBoost,0.98,1,0.99
+Corpus,101,One Cancer,Random Forest,0.02,0.06,0.03
+Corpus,101,One Cancer,RusBoost,0.02,0.46,0.03
+Corpus,102,Two Cancers,MultinomialNB,0.02,0.02,0.02
+Corpus,102,Two Cancers,Random Forest,0,0.01,0
+Corpus,109,Refused,MultinomialNB,0,0.18,0
+Corpus,109,Refused,RusBoost,0,0.53,0

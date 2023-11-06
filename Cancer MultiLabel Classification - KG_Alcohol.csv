@@ -1,0 +1,23 @@
+Keywords,Label,Label Text,Algorithm,Precision,Recall,F1
+Alcohol,0,No Cancer,MultinomialNB,0.97,0.29,0.45
+Alcohol,0,No Cancer,Random Forest,0.97,1,0.98
+Alcohol,0,No Cancer,RusBoost,0.99,0.1,0.19
+Alcohol,0,No Cancer,AdaBoost,0.97,0.92,0.94
+Alcohol,5,Head and neck,RusBoost,0,1,0
+Alcohol,12,Liver,MultinomialNB,0,0.67,0
+Alcohol,17,Leukemia,RusBoost,0,0.16,0
+Alcohol,22,Other skin,MultinomialNB,0.02,0.02,0.02
+Alcohol,27,Bladder,RusBoost,0,0.54,0
+Alcohol,28,Brain,MultinomialNB,0,0.12,0
+Alcohol,28,Brain,RusBoost,0,0.25,0
+Alcohol,28,Brain,AdaBoost,0,0.12,0
+Alcohol,100,No Cancers,MultinomialNB,0.98,0.46,0.63
+Alcohol,100,No Cancers,Random Forest,0.98,1,0.99
+Alcohol,100,No Cancers,AdaBoost,0.98,1,0.99
+Alcohol,101,One Cancer,MultinomialNB,0.05,0.29,0.08
+Alcohol,101,One Cancer,RusBoost,0.02,0.43,0.03
+Alcohol,102,Two Cancers,MultinomialNB,0,0.08,0
+Alcohol,102,Two Cancers,Random Forest,0,0.01,0
+Alcohol,103,Refused,MultinomialNB,0,0.27,0
+Alcohol,107,Not Sure,RusBoost,0,0.05,0
+Alcohol,109,Refused,RusBoost,0,0.53,0

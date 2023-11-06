@@ -1,0 +1,14 @@
+Keywords,Label,Label Text,Algorithm,Precision,Recall,F1
+Weight,0,No Cancer,MultinomialNB,0.97,0.79,0.87
+Weight,0,No Cancer,Random Forest,0.97,0.93,0.95
+Weight,0,No Cancer,AdaBoost,0.97,1,0.98
+Weight,20,Testicular,RusBoost,0,0.48,0
+Weight,22,Other skin,MultinomialNB,0.01,0.02,0.02
+Weight,28,Brain,RusBoost,0,0.12,0
+Weight,100,No Cancers,MultinomialNB,0.98,1,0.99
+Weight,100,No Cancers,Random Forest,0.97,0.9,0.93
+Weight,100,No Cancers,AdaBoost,0.98,0.5,0.66
+Weight,101,One Cancer,Random Forest,0.01,0.03,0.01
+Weight,101,One Cancer,RusBoost,0.02,0.46,0.03
+Weight,101,One Cancer,AdaBoost,0.02,0.54,0.04
+Weight,109,Refused,RusBoost,0,0.53,0

@@ -1,0 +1,23 @@
+Keywords,Label,Label Text,Algorithm,Precision,Recall,F1
+Mental,0,No Cancer,MultinomialNB,0.97,0.29,0.44
+Mental,0,No Cancer,Random Forest,0.97,0.87,0.92
+Mental,0,No Cancer,AdaBoost,0.97,1,0.98
+Mental,2,Cervical,MultinomialNB,0,0.14,0
+Mental,5,Head and neck,RusBoost,0,0.46,0
+Mental,9,Larynx,MultinomialNB,0,0.67,0
+Mental,11,Esophageal,RusBoost,0,0.1,0
+Mental,18,Non-Hodgkin's Lymphoma,RusBoost,0,0.04,0
+Mental,19,Prostate,MultinomialNB,0,0.5,0.01
+Mental,22,Other skin,Random Forest,0.01,0.17,0.02
+Mental,28,Brain,MultinomialNB,0,0.12,0
+Mental,28,Brain,RusBoost,0,0.12,0
+Mental,100,No Cancers,MultinomialNB,0.98,0.66,0.79
+Mental,100,No Cancers,Random Forest,0.98,0.98,0.98
+Mental,100,No Cancers,AdaBoost,0.98,0.5,0.66
+Mental,101,One Cancer,MultinomialNB,0.09,0.19,0.12
+Mental,101,One Cancer,AdaBoost,0.02,0.54,0.04
+Mental,102,Two Cancers,Random Forest,0,0.01,0
+Mental,103,Three or more,RusBoost,0,0.06,0
+Mental,107,Not Sure,MultinomialNB,0,0.1,0
+Mental,107,Not Sure,RusBoost,0,0.48,0
+Mental,109,Refused,RusBoost,0,0.53,0

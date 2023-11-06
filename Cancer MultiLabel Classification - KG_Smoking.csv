@@ -1,0 +1,15 @@
+Keywords,Label,Label Text,Algorithm,Precision,Recall,F1
+Smoking,0,No Cancer,MultinomialNB,0.97,1,0.98
+Smoking,0,No Cancer,Random Forest,0.97,0.97,0.97
+Smoking,0,No Cancer,AdaBoost,0.97,0.87,0.92
+Smoking,15,Stomach,RusBoost,0,0.14,0
+Smoking,17,Leukemia,RusBoost,0,0.16,0
+Smoking,18,Non-Hodgkin's Lymphoma,RusBoost,0,0.26,0
+Smoking,19,Prostate,RusBoost,0,0.52,0.01
+Smoking,28,Brain,AdaBoost,0,0.25,0
+Smoking,100,No Cancers,MultinomialNB,0.97,1,0.99
+Smoking,100,No Cancers,Random Forest,0.98,0.96,0.97
+Smoking,100,No Cancers,RusBoost,0.98,0.44,0.6
+Smoking,100,No Cancers,AdaBoost,0.98,1,0.99
+Smoking,103,Three or more,RusBoost,0,0.01,0
+Smoking,109,Refused,RusBoost,0,0.53,0

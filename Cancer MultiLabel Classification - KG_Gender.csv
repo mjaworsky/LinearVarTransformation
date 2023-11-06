@@ -1,0 +1,22 @@
+Keywords,Label,Label Text,Algorithm,Precision,Recall,F1
+Gender,0,No Cancer,Random Forest,0.97,1,0.98
+Gender,0,No Cancer,AdaBoost,0.97,0.46,0.63
+Gender,1,Breast,MultinomialNB,0.01,0.58,0.02
+Gender,1,Breast,AdaBoost,0.01,0.72,0.02
+Gender,3,Endometrial,RusBoost,0,0.44,0
+Gender,4,Ovarian,MultinomialNB,0,0.17,0
+Gender,5,Head and neck,MultinomialNB,0,0.54,0
+Gender,5,Head and neck,RusBoost,0,0.08,0
+Gender,11,Esophageal,RusBoost,0,0.1,0
+Gender,12,Liver,AdaBoost,0,0.07,0
+Gender,14,Rectal,RusBoost,0,0.07,0
+Gender,17,Leukemia,RusBoost,0,0.05,0
+Gender,19,Prostate,MultinomialNB,0.01,0.36,0.01
+Gender,20,Testicular,RusBoost,0,0.29,0
+Gender,25,Bladder,RusBoost,0,0.13,0
+Gender,100,No Cancers,MultinomialNB,0.97,0.35,0.52
+Gender,100,No Cancers,AdaBoost,0.98,1,0.99
+Gender,102,Two Cancers,RusBoost,0,0.23,0.01
+Gender,103,Three or more,RusBoost,0,0.14,0
+Gender,109,Refused,MultinomialNB,0,0.65,0
+Gender,109,Refused,RusBoost,0,0.53,0

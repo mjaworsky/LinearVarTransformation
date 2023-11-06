@@ -1,0 +1,23 @@
+Keywords,Label,Label Text,Algorithm,Precision,Recall,F1
+Physical,0,No Cancer,MultinomialNB,1,0.02,0.04
+Physical,0,No Cancer,Random Forest,0.97,0.87,0.92
+Physical,0,No Cancer,AdaBoost,0.97,0.67,0.79
+Physical,15,Stomach,AdaBoost,0,0.07,0
+Physical,17,Leukemia,RusBoost,0,0.05,0.01
+Physical,19,Prostate,RusBoost,0,0.08,0.01
+Physical,22,Other skin,Random Forest,0.01,0.19,0.03
+Physical,24,Lung,RusBoost,0,0.13,0
+Physical,25,Bladder,RusBoost,0,0.06,0
+Physical,27,Bone,RusBoost,0,0.15,0
+Physical,28,Brain,MultinomialNB,0,0.75,0
+Physical,28,Brain,AdaBoost,0,0.12,0
+Physical,101,One Cancer,Random Forest,0.03,0.18,0.05
+Physical,102,Two Cancers,MultinomialNB,0.01,0.09,0.01
+Physical,109,Refused,RusBoost,0,0.53,0
+Physical,100,No Cancers,MultinomialNB,0.98,0.68,0.8
+Physical,100,No Cancers,Random Forest,0.98,1,0.99
+Physical,100,No Cancers,RusBoost,0.98,0.34,0.51
+Physical,100,No Cancers,AdaBoost,0.98,1,0.99
+Physical,103,Three or more,RusBoost,0,0.2,0
+Physical,109,Refused,MultinomialNB,0,0.18,0
+Physical,109,Refused,RusBoost,0,0.53,0
