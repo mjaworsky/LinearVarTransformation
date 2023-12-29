@@ -1442,14 +1442,15 @@ state_data[158][state_data[158] == 30] <- '30'
 state_data[158][state_data[158] == 77] <- '77'
 state_data[158][state_data[158] == 99] <- '99'
 
-
-state_data[156][is.na(state_data[156])] <- '100'
+state_data[156][is.na(state_data[156])] <- '0'
 state_data[156][state_data[156] == 1] <- '101'
 state_data[156][state_data[156] == 2] <- '102'
 state_data[156][state_data[156] == 3] <- '103'
 state_data[156][state_data[156] == 7] <- '107'
 state_data[156][state_data[156] == 9] <- '109'
 
+state_data[158][(state_data[156] %in% c('101', '102', '103')) & (state_data[158] %in% c('0'))] <- '99'
+state_data[156][(state_data[156] %in% c('101', '102', '103')) & (state_data[158] %in% c('0'))] <- '99'
 
 
 LM_WHOICD_KG <- subset(LM_Chapter_Scores,select=c('chapter','word','n'))
@@ -2422,6 +2423,7 @@ gender_hepatitis = subset(state_data, select = c(CNCRTYP1,CNCRDIFF,X_SEX,GENDER_
 
 #write.csv(gender_hepatitis, "LLCP2021XPT_GENDER_HEPATITIS.csv")
 
+print("end")
 
 
 
