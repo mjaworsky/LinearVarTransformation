@@ -1,0 +1,191 @@
+Keywords,Label,Label Text,Precision,Recall,F1,Avg
+Smoking,109,Refusal,0,0,0,0.000
+Gender + Weight,109,Refusal,0,0.51,0,0.170
+Gender + Injury + Fatigue,109,Refusal,0,0.2,0,0.067
+Diabetes,109,Refusal,0,0.15,0,0.050
+Alcohol,109,Refusal,0,0.29,0,0.097
+Smoking,107,Not Sure,0,0.42,0,0.140
+Gender + Weight,107,Not Sure,0,0.32,0,0.107
+Gender + Injury + Fatigue,107,Not Sure,0,0.13,0,0.043
+Diabetes,107,Not Sure,0,0.2,0,0.067
+Alcohol,107,Not Sure,0,0.42,0,0.140
+Smoking,103,Three or more,0,0,0,0.000
+Gender + Weight,103,Three or more,0,0.22,0.01,0.077
+Gender + Injury + Fatigue,103,Three or more,0.01,0.45,0.01,0.157
+Diabetes,103,Three or more,0,0.3,0.01,0.103
+Alcohol,103,Three or more,0,0,0,0.000
+Smoking,102,Two Cancers,0,0,0,0.000
+Gender + Weight,102,Two Cancers,0.02,0.41,0.04,0.157
+Gender + Injury + Fatigue,102,Two Cancers,0.02,0.42,0.04,0.160
+Diabetes,102,Two Cancers,0,0,0,0.000
+Alcohol,102,Two Cancers,0,0,0,0.000
+Smoking,101,One Cancer,0.08,0.06,0.07,0.070
+Gender + Weight,101,One Cancer,0.06,0.13,0.09,0.093
+Gender + Injury + Fatigue,101,One Cancer,0,0,0,0.000
+Diabetes,101,One Cancer,0.08,0.21,0.12,0.137
+Alcohol,101,One Cancer,0.08,0.06,0.07,0.070
+Smoking,99,Refused,0,0,0,0.000
+Gender + Weight,99,Refused,0,0.03,0,0.010
+Gender + Injury + Fatigue,99,Refused,0,0,0,0.000
+Diabetes,99,Refused,0,0,0,0.000
+Alcohol,99,Refused,0,0.02,0,0.007
+Smoking,77,Do not know,0.01,0.03,0.01,0.017
+Gender + Weight,77,Do not know,0,0,0,0.000
+Gender + Injury + Fatigue,77,Do not know,0,0.01,0,0.003
+Diabetes,77,Do not know,0,0,0,0.000
+Alcohol,77,Do not know,0,0,0,0.000
+Smoking,30,Other,0,0,0,0.000
+Gender + Weight,30,Other,0,0,0,0.000
+Gender + Injury + Fatigue,30,Other,0,0.01,0,0.003
+Diabetes,30,Other,0,0,0,0.000
+Alcohol,30,Other,0,0.08,0.01,0.030
+Smoking,29,Neuroblastoma,0,0.25,0,0.083
+Gender + Weight,29,Neuroblastoma,0,0.12,0,0.040
+Gender + Injury + Fatigue,29,Neuroblastoma,0,0.12,0,0.040
+Diabetes,29,Neuroblastoma,0,0,0,0.000
+Alcohol,29,Neuroblastoma,0,0,0,0.000
+Smoking,28,Brain,0,0.08,0,0.027
+Gender + Weight,28,Brain,0,0,0,0.000
+Gender + Injury + Fatigue,28,Brain,0,0.67,0,0.223
+Diabetes,28,Brain,0,0,0,0.000
+Alcohol,28,Brain,0,0.12,0,0.040
+Smoking,27,Bone,0,0.02,0,0.007
+Gender + Weight,27,Bone,0,0,0,0.000
+Gender + Injury + Fatigue,27,Bone,0,0,0,0.000
+Diabetes,27,Bone,0,0,0,0.000
+Alcohol,27,Bone,0,0.17,0,0.057
+Smoking,26,Kidney,0,0,0,0.000
+Gender + Weight,26,Kidney,0,0,0,0.000
+Gender + Injury + Fatigue,26,Kidney,0,0,0,0.000
+Diabetes,26,Kidney,0,0.01,0,0.003
+Alcohol,26,Kidney,0,0.15,0,0.050
+Smoking,25,Bladder,0,0.22,0.01,0.077
+Gender + Weight,25,Bladder,0,0.13,0.01,0.047
+Gender + Injury + Fatigue,25,Bladder,0,0.21,0,0.070
+Diabetes,25,Bladder,0,0.04,0.01,0.017
+Alcohol,25,Bladder,0,0,0,0.000
+Smoking,24,Lung,0,0,0,0.000
+Gender + Weight,24,Lung,0,0,0,0.000
+Gender + Injury + Fatigue,24,Lung,0,0,0,0.000
+Diabetes,24,Lung,0,0.03,0,0.010
+Alcohol,24,Lung,0,0,0,0.000
+Smoking,23,Heart,0,0,0,0.000
+Gender + Weight,23,Heart,0,0,0,0.000
+Gender + Injury + Fatigue,23,Heart,0,0.33,0,0.110
+Diabetes,23,Heart,0,0,0,0.000
+Alcohol,23,Heart,0,0,0,0.000
+Smoking,22,Other skin,0,0,0,0.000
+Gender + Weight,22,Other skin,0.03,0.17,0.04,0.080
+Gender + Injury + Fatigue,22,Other skin,0.02,0.07,0.03,0.040
+Diabetes,22,Other skin,0.04,0.19,0.07,0.100
+Alcohol,22,Other skin,0.04,0.03,0.03,0.033
+Smoking,21,Melonoma,0,0,0,0.000
+Gender + Weight,21,Melonoma,0,0,0,0.000
+Gender + Injury + Fatigue,21,Melonoma,0,0,0,0.000
+Diabetes,21,Melonoma,0.04,0.01,0.02,0.023
+Alcohol,21,Melonoma,0,0,0,0.000
+Smoking,20,Testicular,0,0,0,0.000
+Gender + Weight,20,Testicular,0,0.03,0,0.010
+Gender + Injury + Fatigue,20,Testicular,0,0,0,0.000
+Diabetes,20,Testicular,0,0,0,0.000
+Alcohol,20,Testicular,0,0,0,0.000
+Smoking,19,Prostate,0.02,0.27,0.03,0.107
+Gender + Weight,19,Prostate,0.02,0.52,0.03,0.190
+Gender + Injury + Fatigue,19,Prostate,0.02,0.27,0.03,0.107
+Diabetes,19,Prostate,0.02,0.27,0.04,0.110
+Alcohol,19,Prostate,0.02,0.27,0.03,0.107
+Smoking,18,Non-Hodgkin's Lymphoma,0,0,0,0.000
+Gender + Weight,18,Non-Hodgkin's Lymphoma,0,0,0,0.000
+Gender + Injury + Fatigue,18,Non-Hodgkin's Lymphoma,0,0,0,0.000
+Diabetes,18,Non-Hodgkin's Lymphoma,0,0.01,0,0.003
+Alcohol,18,Non-Hodgkin's Lymphoma,0,0,0,0.000
+Smoking,17,Leukemia,0,0,0,0.000
+Gender + Weight,17,Leukemia,0,0,0,0.000
+Gender + Injury + Fatigue,17,Leukemia,0,0.12,0,0.040
+Diabetes,17,Leukemia,0,0,0,0.000
+Alcohol,17,Leukemia,0,0,0,0.000
+Smoking,16,Hodgkin´s Lymphoma,0,0.09,0,0.030
+Gender + Weight,16,Hodgkin´s Lymphoma,0,0,0,0.000
+Gender + Injury + Fatigue,16,Hodgkin´s Lymphoma,0,0.1,0,0.033
+Diabetes,16,Hodgkin´s Lymphoma,0,0.17,0,0.057
+Alcohol,16,Hodgkin´s Lymphoma,0,0.01,0,0.003
+Smoking,15,Stomach,0,0.15,0,0.050
+Gender + Weight,15,Stomach,0,0,0,0.000
+Gender + Injury + Fatigue,15,Stomach,0,0,0,0.000
+Diabetes,15,Stomach,0,0,0,0.000
+Alcohol,15,Stomach,0,0.28,0,0.093
+Smoking,14,Rectal,0,0.01,0,0.003
+Gender + Weight,14,Rectal,0,0,0,0.000
+Gender + Injury + Fatigue,14,Rectal,0,0,0,0.000
+Diabetes,14,Rectal,0,0,0,0.000
+Alcohol,14,Rectal,0,0,0,0.000
+Smoking,13,Pancreatic,0,0,0,0.000
+Gender + Weight,13,Pancreatic,0,0,0,0.000
+Gender + Injury + Fatigue,13,Pancreatic,0,0,0,0.000
+Diabetes,13,Pancreatic,0,0.05,0,0.017
+Alcohol,13,Pancreatic,0,0,0,0.000
+Smoking,12,Liver,0,0,0,0.000
+Gender + Weight,12,Liver,0,0,0,0.000
+Gender + Injury + Fatigue,12,Liver,0,0,0,0.000
+Diabetes,12,Liver,0,0.14,0,0.047
+Alcohol,12,Liver,0,0.26,0,0.087
+Smoking,11,Esophageal,0,0,0,0.000
+Gender + Weight,11,Esophageal,0,0.14,0,0.047
+Gender + Injury + Fatigue,11,Esophageal,0,0,0,0.000
+Diabetes,11,Esophageal,0,0,0,0.000
+Alcohol,11,Esophageal,0,0,0,0.000
+Smoking,10,Colon,0,0,0,0.000
+Gender + Weight,10,Colon,0,0,0,0.000
+Gender + Injury + Fatigue,10,Colon,0,0,0,0.000
+Diabetes,10,Colon,0.01,0.02,0.01,0.013
+Alcohol,10,Colon,0,0,0,0.000
+Smoking,9,Larynx,0,0.09,0,0.030
+Gender + Weight,9,Larynx,0,0.13,0,0.043
+Gender + Injury + Fatigue,9,Larynx,0,0,0,0.000
+Diabetes,9,Larynx,0,0.13,0,0.043
+Alcohol,9,Larynx,0,0.04,0,0.013
+Smoking,8,Thyroid,0,0.09,0.01,0.033
+Gender + Weight,8,Thyroid,0,0.31,0.01,0.107
+Gender + Injury + Fatigue,8,Thyroid,0,0.07,0.01,0.027
+Diabetes,8,Thyroid,0,0.26,0.01,0.090
+Alcohol,8,Thyroid,0,0,0,0.000
+Smoking,7,Throat,0,0.01,0,0.003
+Gender + Weight,7,Throat,0,0.23,0,0.077
+Gender + Injury + Fatigue,7,Throat,0,0,0,0.000
+Diabetes,7,Throat,0,0,0,0.000
+Alcohol,7,Throat,0,0,0,0.000
+Smoking,6,Oral,0,0,0,0.000
+Gender + Weight,6,Oral,0,0,0,0.000
+Gender + Injury + Fatigue,6,Oral,0,0,0,0.000
+Diabetes,6,Oral,0,0.12,0,0.040
+Alcohol,6,Oral,0,0,0,0.000
+Smoking,5,Head and neck,0,0,0,0.000
+Gender + Weight,5,Head and neck,0,0,0,0.000
+Gender + Injury + Fatigue,5,Head and neck,0,0.02,0,0.007
+Diabetes,5,Head and neck,0,0.3,0,0.100
+Alcohol,5,Head and neck,0,0,0,0.000
+Smoking,4,Ovarian,0,0.15,0,0.050
+Gender + Weight,4,Ovarian,0,0,0,0.000
+Gender + Injury + Fatigue,4,Ovarian,0,0,0,0.000
+Diabetes,4,Ovarian,0,0,0,0.000
+Alcohol,4,Ovarian,0,0,0,0.000
+Smoking,3,Endometrial,0,0,0,0.000
+Gender + Weight,3,Endometrial,0,0.01,0,0.003
+Gender + Injury + Fatigue,3,Endometrial,0,0.02,0,0.007
+Diabetes,3,Endometrial,0,0,0,0.000
+Alcohol,3,Endometrial,0,0.32,0.01,0.110
+Smoking,2,Cervical,0.01,0.28,0.01,0.100
+Gender + Weight,2,Cervical,0.01,0.86,0.01,0.293
+Gender + Injury + Fatigue,2,Cervical,0,0.03,0,0.010
+Diabetes,2,Cervical,0,0,0,0.000
+Alcohol,2,Cervical,0,0,0,0.000
+Smoking,1,Breast,0,0,0,0.000
+Gender + Weight,1,Breast,0.02,0.13,0.04,0.063
+Gender + Injury + Fatigue,1,Breast,0.03,0.2,0.06,0.097
+Diabetes,1,Breast,0.02,0.05,0.03,0.033
+Alcohol,1,Breast,0.02,0.2,0.04,0.087
+Smoking,0,No Cancer,0.91,0.92,0.92,0.917
+Gender + Weight,0,No Cancer,0.91,0.81,0.86,0.860
+Gender + Injury + Fatigue,0,No Cancer,0.91,0.91,0.91,0.910
+Diabetes,0,No Cancer,0.91,0.95,0.93,0.930
+Alcohol,0,No Cancer,0.91,0.91,0.91,0.910
